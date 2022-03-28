@@ -9,3 +9,11 @@
     text-align: center;
     color: gray
 }
+
+.win {
+    color: #1EBB46;
+}
+
+.lose {
+    color: #F54785;
+}

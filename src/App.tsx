@@ -1,9 +1,8 @@
-import { Pokedex } from './components/Pokedex';
-import { pokedexData } from './constants/constants';
+import PokeGame from './components/PokeGame';
 
 function App() {
   return (
-    <Pokedex pokemons={pokedexData} />
+    <PokeGame />
   );
 }
 
